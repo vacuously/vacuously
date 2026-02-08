@@ -1,4 +1,4 @@
-## about me!!!!!!!
+## about me
 
 i like web automation and cyber security<br>
 decent in py, rust, c++ and currently learning lua<br>
