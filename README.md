@@ -5,3 +5,4 @@ decent in py, rust, c++ and currently learning lua<br>
 you can check out my public repos for some cool stuff!<br>
 contact me on discord "0xqd" for any enquires 
 
+![cool rainbow thing gif](rb.gif)
